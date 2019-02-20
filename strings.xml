@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="films">
+        <item>Pony 1</item>
+        <item>Mega pony</item>
+        <item>My Pony Strikes Back</item>
+        <item>Ponyzilla</item>
+    </string-array>
+</resources>
